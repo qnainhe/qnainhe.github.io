@@ -5,10 +5,10 @@
 <title>폼 학습</title></head>
 <body>
 <section>
-<h2>JSP form</h2>
-<section>
-<h2>자동차로</h2><br/>
-<h2><%=request.getParameter("fromx")%>에서 <%=request.getParameter("tox")%>까지 <br/></h2>
-</section>
-</section>
-</body></html>
+  <h2>JSP form</h2>
+  <section>
+    <h2>자동차로</h2><br/>
+    <h2><%=request.getParameter("fromx")%>에서 <%=request.getParameter("tox")%>까지<br/></h2>
+  </section>
+  </section>
+  </body></html>
